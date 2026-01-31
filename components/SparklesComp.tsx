@@ -66,49 +66,74 @@ export function SparklesComp() {
       {/* Team Cards with Grid Layout */}
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-[1200px] mx-auto my-10'>
         <TeamCard
-          name='Dheeraj Bandral'
-          role='Content Writer'
-          image='/images/members/Dheeraj.png'
+          name='Bharat'
+          role='Event Coordinator'
+          image=''
           className='text-white font-semibold drop-shadow-md'
         /> 
          <TeamCard
-          name='Anshika Yadav'
-          role='Anchor'
-          image='/images/members/Anshika.png'
+          name='Harshika'
+          role='Event Coordinator'
+          image=''
           className='text-white font-semibold drop-shadow-md'
         />
         <TeamCard
-         
-        />{' '}
+          name='Deepak Sodhi'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
+         <TeamCard
+          name='Himanshu Sharma'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
         <TeamCard
+          name='Gopi'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
+        <TeamCard
+          name='Tamnya'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
         
-        />{' '}
         <TeamCard
-         
-        />{' '}
-        <TeamCard
-         
-        />{' '}
-       
+          name='Ankita'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
         
         <TeamCard
-         
+          name='Satyam pal'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
         />
         <TeamCard
-         
+          name='Amandeep'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
+        />
+       <TeamCard
+          name='Vipin'
+          role='Event Coordinator'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
         />
         <TeamCard
-         
+          name='Diptimoy Datta'
+          role='Web Developer'
+          image=''
+          className='text-white font-semibold drop-shadow-md'
         />
-        <TeamCard
-          
-        />
-        <TeamCard
-          
-        />
-        <TeamCard
-          
-        />
+ 
         
         
       </div>
